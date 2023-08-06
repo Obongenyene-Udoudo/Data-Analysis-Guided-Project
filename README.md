@@ -1,4 +1,5 @@
-# Introduction
+# Project
+## Introduction
 Having completed all the lessons on Excel, we were asked to work on a project. This project involves helping a business owner make better business decisions in the coming year using data from his previous business years. The focus is to help him answer essential questions concerning his business performance over these years and help proffer solutions to areas he either needs to concentrate on/work on in his business. 
 To do this, we are to come up with six helpful business questions we intend to answer with that data, then clean, analyze, and visualize our insights.
 
